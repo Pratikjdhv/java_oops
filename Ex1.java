@@ -17,6 +17,8 @@ class Car {  // Class name should start with uppercase
     }
 }
 
+// add one comment line 
+
 public class Ex1 {  // Class name should start with uppercase
     public static void main(String[] args) {
         Car c1 = new Car("Lamborghini", "Beta", 2024); // Using constructor
