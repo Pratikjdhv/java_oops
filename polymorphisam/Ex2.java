@@ -1,3 +1,4 @@
+// add comment to try commit from vs code 
 class animal{
     void sound (){
         System.out.println("animal make sound ");
@@ -24,7 +25,6 @@ public class Ex2 {
         a1.sound();
         a1 = new cat();
         a1.sound();
-        
-
+    
     }
 }
